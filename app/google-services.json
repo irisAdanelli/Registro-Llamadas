@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "982504303302",
+    "firebase_url": "https://registro-llamadas.firebaseio.com",
+    "project_id": "registro-llamadas",
+    "storage_bucket": "registro-llamadas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982504303302:android:e95d9788821a39e7",
+        "android_client_info": {
+          "package_name": "com.example.carlos.registro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982504303302-70236ehv98pkqatq8sj4borvq71slmlo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.carlos.registro",
+            "certificate_hash": "4bd597ed15fda32f1679d87fceb4e1557877776a"
+          }
+        },
+        {
+          "client_id": "982504303302-8s1pdg5j2qnq3mn8kmmcnjpcs13jmu02.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "982504303302-8s1pdg5j2qnq3mn8kmmcnjpcs13jmu02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtlgkKHZxf33sX2xfHYWvLPpXvO-W-duo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982504303302-8s1pdg5j2qnq3mn8kmmcnjpcs13jmu02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
